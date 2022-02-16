@@ -35,3 +35,9 @@ There's one golden rule: reproducibility. If it breaks when I try to run it, it 
   - Code requiring edits to PATH or other system file. You could have the coolest code in the world but if it means I have to change my computer state I'm not including it. If this is what your code requires, you'll have to write some auto-detection software to find it and make it **very** clear that this is required in the README. If I don't notice it and fail to install your very special external software and it breaks, I'm removing it.
   - User inputs. No `readline`, no "Hit next to continue", no "click to select subregion". You're making a single output, not an application.
   - More to be determined as I break things.
+
+## Gallery
+
+This gallery is updated whenever I feel like it because I manually go through the top-level folders and find the .png and .jpg output files.
+
+[![](NMDS_shards/nmds_shardplot.png)](NMDS_shards)
