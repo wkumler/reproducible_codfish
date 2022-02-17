@@ -51,3 +51,7 @@ This gallery is updated whenever I feel like it because I manually go through th
 ---
 
 [![](profile_mode_peaks/betaine_horns.png)](profile_mode_peaks)
+
+---
+
+[![](manual_ridges_msspace/manual_ridge_vis.png)](manual_ridges_msspace)
