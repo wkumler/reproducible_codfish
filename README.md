@@ -1,4 +1,4 @@
-# Reproducible code, figures, and sh...tuff. cod-fi-sh, geddit?
+# Reproducible code, figures, and sh...tuff. cod-fi-sh!
 
 I spent way too much time recreating old code and figures and trying to hack together everyone else's workflow, so I'm making this repo to collect those final products in a single spot instead of various other places. Ideally I'd like this to be a code library of sorts where others can go to see how I've made figures, performed analyses, or performed some bit of exceptional wizardry.
 
