@@ -34,13 +34,20 @@ nmds_df <- nmds_output$points %>%
   select(filename, starts_with("MDS"), depth) %>%
   mutate(basename=str_extract(filename, "MS\\d+C\\d+.*(?=_[A-C])"))
 
+nmds_labels <- nmds_df %>%
+  group_by(depth) %>%
+  summarise(MDS1=mean(MDS1), MDS2=mean(MDS2))
+
 # Plot
-gp <- ggplot(nmds_df) +
-  geom_polygon(aes(x=MDS1, y=MDS2, fill=depth, group=basename), 
-               color="black", alpha=0.5) +
-  theme_minimal()
+gp <- ggplot(nmds_df, aes(x=MDS1, y=MDS2)) +
+  geom_polygon(aes(fill=depth, group=basename), alpha=0.5) +
+  geom_polygon(aes(color=depth, group=basename), fill=NA) +
+  theme_minimal() +
+  theme(legend.position="none") +
+  geom_label(data = nmds_labels, aes(color=depth, label=depth), 
+             size=6, nudge_y = 0.01)
 gp
 
 # Save with fixed parameters
 ggsave(filename = "nmds_shardplot.png", plot = gp, device = "png", 
-       width = 6.5, height = 3.5, units = "in", dpi = 72, type="cairo")
+       width = 8, height = 3, units = "in", dpi = 144, type="cairo")
