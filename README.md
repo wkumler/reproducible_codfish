@@ -1,4 +1,4 @@
-# Reproducible **cod**e, **fi**gures, and **sh**...tuff. **codfish**, geddit?
+# Reproducible code, figures, and sh...tuff. cod-fi-sh, geddit?
 
 I spent way too much time recreating old code and figures and trying to hack together everyone else's workflow, so I'm making this repo to collect those final products in a single spot instead of various other places. Ideally I'd like this to be a code library of sorts where others can go to see how I've made figures, performed analyses, or performed some bit of exceptional wizardry.
 
@@ -35,6 +35,11 @@ There's one golden rule: reproducibility. If it breaks when I try to run it, it 
   - Code requiring edits to PATH or other system file. You could have the coolest code in the world but if it means I have to change my computer state I'm not including it. If this is what your code requires, you'll have to write some auto-detection software to find it and make it **very** clear that this is required in the README. If I don't notice it and fail to install your very special external software and it breaks, I'm removing it.
   - User inputs. No `readline`, no "Hit next to continue", no "click to select subregion". You're making a single output, not an application.
   - More to be determined as I break things.
+
+## Recommended techniques
+  - Use `ggsave` or `png` with a specific width/height/dpi arguments. Keeps outputs actually identical and doesn't depend on RStudio's window size when exporting/saving. Ideally the outputs should have a width of either 8 inches or 4 inches to fit nicely in the gallery.
+  - Use `set.seed` for anything that requires randomness (NMDS, k-means, etc.). Actually, probably best to set this for things that don't even clearly require randomness.
+  - Load libraries at the beginning and avoid `::` notation.
 
 ## Gallery
 
