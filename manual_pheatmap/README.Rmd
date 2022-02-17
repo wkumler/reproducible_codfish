@@ -1,5 +1,5 @@
 ---
-title: "Plotting Mesotransect heatmaps"
+title: "Plotting heatmaps with ggplot"
 author: "William Kumler"
 date: "2/16/2022"
 output: github_document
@@ -14,4 +14,4 @@ Metabolomics sometimes involves looking at lots and lots of compounds, so what b
 
 ## Output
 
-![](ggplot_pheatmap.png)
+![](ggplot_heatmap.png)
