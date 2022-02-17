@@ -41,3 +41,5 @@ There's one golden rule: reproducibility. If it breaks when I try to run it, it 
 This gallery is updated whenever I feel like it because I manually go through the top-level folders and find the .png and .jpg output files.
 
 [![](NMDS_shards/nmds_shardplot.png)](NMDS_shards)
+
+[![](manual_pheatmap/ggplot_heatmap.png)](manual_pheatmap)
