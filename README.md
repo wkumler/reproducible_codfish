@@ -47,3 +47,7 @@ This gallery is updated whenever I feel like it because I manually go through th
 ---
 
 [![](manual_pheatmap/ggplot_heatmap.png)](manual_pheatmap)
+
+---
+
+[![](profile_mode_peaks/betaine_horns.png)](profile_mode_peaks)
