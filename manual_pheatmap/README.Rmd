@@ -1,0 +1,17 @@
+---
+title: "Plotting Mesotransect heatmaps"
+author: "William Kumler"
+date: "2/16/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Motivation
+Metabolomics sometimes involves looking at lots and lots of compounds, so what better way to do that than with a heatmap? Especially if the compounds can be clustered so that clear trends with an organizing them are visible. `pheatmap` does this reasonably well but doesn't give me the fine control I'd like, so instead I've recreated those heatmaps in ggplot.
+
+## Output
+
+![](ggplot_pheatmap.png)
