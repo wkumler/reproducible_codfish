@@ -1,0 +1,26 @@
+---
+title: "Codfish template"
+author: "William Kumler"
+date: "3/4/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Motivation
+
+Describe why you're adding this to the repo - what are you frustated you've had to do yet again that wasn't documented or easy the first time?
+
+## Tricks used
+
+What tricks or hacks are you using here that might be useful to other people? Be conscise, they can always look at the code for more details.
+
+## Data
+
+Only necessary if there's a data/ folder, but should describe where the data comes from.
+
+## Output
+
+![](codfish_template.png)
