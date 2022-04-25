@@ -1,0 +1,31 @@
+---
+title: "Carbon to nitrogen ratios at two depths"
+author: "William Kumler"
+date: "4/25/2022"
+output: github_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Motivation
+
+This is a figure that I made for my ARCS poster, presented on May 1st 2022. It's often difficult to get the data all shaped exactly the way we want it to and there's several `tidyverse` tricks that I thought would be worth documenting.
+
+## Tricks used
+
+  - `dplyr`'s `nest` and `unnest` functions to turn data into a single data frame entry
+  - `broom`'s `tidy` function, applied rowwise with `dplyr`'s `map`
+  - `coin`'s `oneway_test` and `pvalue` for permutational t-test
+  - Manual color scales with `scale_color_manual(breaks = , values =)`
+  - `ggdark`'s `dark_theme_void`
+  - Transparent background for use on the poster's color gradient background
+
+## Data
+
+Data comes from the MESOSCOPE and Falkor cruises. `clean_peaks` contains output from the modified XCMS pipeline I've been using with peak integration information and depth information contained in the file names. ``
+
+## Output
+
+![](codfish_template.png)
