@@ -71,4 +71,4 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-[![](diss_part_ggbarribbon/diss_part_allu.png)](diss_part_ggbarribbon){width=50%}
+<img src="diss_part_ggbarribbon/diss_part_allu.png" width="50%" height="50%"/>
