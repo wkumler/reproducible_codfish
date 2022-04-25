@@ -1,0 +1,85 @@
+Compound.name.fig,Complete.compound.name,ALOHA,NP
+4-Hydroxyisoleucine,Hydroxyisoleucine,1.226376708,1.350668167
+Acetyl-L-carnitine,O-Acetylcarnitine,0.003245797,0.009978301
+Adenine,Adenine,0.018288367,0.045730931
+Adenosine,Adenosine,0.010261611,0.115835271
+SAH,S-Adenosylhomocysteine,0.000149428,0.000884132
+SAM,S-Adenosylmethionine,0.006058791,0.016714584
+Agmatine,Agmatine,0.000256648,0.000127964
+Alanine,L-Alanine,0.260557962,0.946681427
+Allopurinol,Allopurinol,0.002045929,0.007965902
+APA,Amino Propanesulfonic Acid,0.013090108,0.050874995
+AMP,Adenosine monophosphate,0.062819756,0.211610778
+Arginine,L-Arginine,0.124489302,0.843746427
+Argininosuccinate,L-Arginosuccinic acid,0.000286463,0.000584709
+Arsenobetaine,Arsenobetaine,0.007821498,0.001824787
+Asparagine,L-Asparagine,0.038341209,0.082011116
+Aspartic acid,L-Aspartic acid,0.359340933,0.502667199
+b-Alanine,beta-Alanine,0.051268431,0.265164142
+b-Glutamic acid,beta-Glutamic acid,0.039899111,0.043034027
+Glycine betaine,Glycine betaine,0.815870487,1.799013638
+Betonicine,Betonicine,0.016475843,0.018019144
+Butyryl-L-carnitine,Butyrylcarnitine,0.000153296,0.000274124
+Carnitine,Carnitine,0.014201724,0.021931955
+Choline,Choline,0.016761916,0.064078021
+Citrulline,Citrulline,0.013174733,0.019657341
+Creatine,Creatine,0.002947013,0.014172928
+Cystathionine,L-Cystathionine,0.000339602,0.007868562
+Cysteic acid,L-Cysteic acid,0.007286981,0.027248455
+Cytidine,Cytidine,0.008362437,0.026612
+Cytosine,Cytosine,0.016778188,0.029951372
+Deoxyadenosine,Deoxyadenosine,0.000511864,0.009134567
+Dexpanthenol,Dexpanthenol,,0.001083297
+DHPS,"(R)-2,3-Dihydroxypropane-1-sulfonate",0.067159305,0.195192098
+DMS-Ac,Dimethylsulfonioacetate,0.054348284,0.268195448
+DMSP,Dimethylsulfoniopropionate,0.73050404,1.656229405
+Ectoine,Ectoine,0.00551968,0.0257262
+Gluconic acid,D-Gluconic acid,,0.001352434
+Glucosylglycerol,2-O-alpha-D-Glucosylglycerol,0.012893006,0.51916607
+Glutamic acid,L-Glutamic acid,1.986133669,3.577816908
+Glutamine,L-Glutamine,0.259467918,0.292867618
+GSSG,Glutathione disulfide,0.002278387,0.002013107
+GPP,Glycerophosphocholine,0.003933447,0.023402737
+Gonyol,Gonyol,0.200701898,0.054360848
+Guanine,Guanine,0.650006324,0.172520331
+Guanosine,Guanosine,0.003488366,0.036854059
+Histidine,L-Histidine,0.083862539,0.175585827
+Homarine,Homarine,1.12173944,19.17891023
+Homoserine,L-Homoserine,,0.011270823
+Inosine,Inosine,0.002947058,0.031663371
+Isethionic acid,Isethionic acid,0.163511282,0.721573582
+Kynurenine,L-Kynurenine,8.06684E-05,4.57918E-05
+Pidolic acid,5-Oxoproline,0.044362165,0.125064245
+Leucine,L-Leucine,2.600374035,1.496290836
+Lysine,L-Lysine,0.092650701,0.296371144
+Malic acid,Malic acid,0.051408797,0.142610627
+Methionine,L-Methionine,0.001626857,0.059113237
+Methionine sulfoxide,L-Methionine S-oxide,0.010238406,0.027154624
+MTA,Methylthioadenosine,0.000111241,0.000426847
+N-acetyltaurine,N-Acetyltaurine,0.000591421,0.000996403
+N(e)-Acetyl-Lysine,N6-Acetyl-L-lysine,0.007692189,0.002251207
+NAD,NAD,0.007634245,0.002588241
+Ornithine,L-Ornithine,0.017241967,0.021800988
+Phenylalanine,L-Phenylalanine,0.026883434,0.103074072
+Proline,L-Proline,0.09051026,0.572812058
+O-Propionylcarnitine,O-Propionylcarnitine,0.001218835,0.002884611
+Sarcosine,Sarcosine,0.026961991,0.165736196
+Serine,L-Serine,0.066717105,0.190164945
+Proline betaine,Proline betaine,0.01842129,0.016862291
+Sucrose,Sucrose,0.149959427,0.009626738
+Sulfolactic acid,Sulfolactic Acid,0.009095288,0.030478043
+Sulfurol,5-(2-Hydroxyethyl)-4-methylthiazole,,
+Taurine,Taurine,0.286522476,1.632869654
+Threonine,L-Threonine,,
+Thymidine,Thymidine,0.002805965,0.013459373
+Trehalose,Trehalose,0.017790536,0.008547791
+Trigonelline,Trigonelline,0.053747026,0.207785953
+TMAP,beta-Alaninebetaine,0.154717376,0.22872946
+Tryptophan,L-Tryptophan,0.012412199,0.043296706
+Tyrosine,L-Tyrosine,0.063667755,0.171464103
+UDP-glucosamine,UDP-N-acetylglucosamine,0.010414038,0.035708733
+Uracil,Uracil,,0.01431238
+Uridine,Uridine,0.00827495,0.041766896
+Vit B2,Riboflavin,7.71891E-06,0.000849753
+Vit B3,Nicotinic acid,0.005071847,0.037367991
+Vit B5,Pantothenic acid,7.29974E-05,0.00092991
