@@ -60,3 +60,15 @@ This gallery is updated whenever I feel like it because I manually go through th
 ---
 
 [![](manual_ridges_msspace/manual_ridge_vis.png)](manual_ridges_msspace)
+
+---
+
+[![](ctd_and_cmap/ctd_and_cmap.png)](ctd_and_cmap)
+
+---
+
+[![](cn_ratio_violins/depth_cn_boxplots.png)](cn_ratio_violins){width=50%}
+
+---
+
+[![](diss_part_ggbarribbon/diss_part_allu.png)](diss_part_ggbarribbon){width=50%}
