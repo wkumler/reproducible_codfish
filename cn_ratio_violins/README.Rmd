@@ -24,8 +24,8 @@ This is a figure that I made for my ARCS poster, presented on May 1st 2022. It's
 
 ## Data
 
-Data comes from the MESOSCOPE and Falkor cruises. `clean_peaks` contains output from the modified XCMS pipeline I've been using with peak integration information and depth information contained in the file names. ``
+Data comes from the MESOSCOPE and Falkor cruises. `clean_peaks` contains output from the modified XCMS pipeline I've been using with peak integration areas and depth info. `feature_formulas` is from later on in the pipeline where I've used isotope envelopes, SIRIUS, and Rdisop to guess at the molecular formula of various features.
 
 ## Output
 
-![](codfish_template.png)
+![](depth_cn_boxplots.png)
