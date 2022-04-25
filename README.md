@@ -67,8 +67,4 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-<img src="cn_ratio_violins/depth_cn_boxplots.png" width="50%" height="50%"/>
-
----
-
-<img src="diss_part_ggbarribbon/diss_part_allu.png" width="50%" height="50%"/>
+<img src="cn_ratio_violins/depth_cn_boxplots.png" width="50%" height="50%"/><img src="diss_part_ggbarribbon/diss_part_allu.png" width="50%" height="50%"/>
