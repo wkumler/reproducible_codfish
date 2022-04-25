@@ -67,4 +67,4 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-<a href="cn_ratio_violins"><img src="cn_ratio_violins/depth_cn_boxplots.png" width="48%" height="48%" align="left"/></a><a href="diss_part_ggbarribbon"><img src="diss_part_ggbarribbon/diss_part_allu.png" width="45%" height="45%" align="right"/></a>
+<a href="cn_ratio_violins"><img src="cn_ratio_violins/depth_cn_boxplots.png" width="48%" height="48%" align="left"/></a><a href="diss_part_ggbarribbon"><img src="diss_part_ggbarribbon/diss_part_allu.png" width="48%" height="48%" align="right"/></a>
