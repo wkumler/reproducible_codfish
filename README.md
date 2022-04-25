@@ -67,7 +67,7 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-<img src="https://github.com/wkumler/reproducible_codfish/blob/main/cn_ratio_violins/depth_cn_boxplots.png", width="50%", height="50%" />
+<img src="https://github.com/wkumler/reproducible_codfish/blob/main/cn_ratio_violins/depth_cn_boxplots.png", width="200px", height="200px" />
 
 ---
 
