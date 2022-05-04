@@ -61,5 +61,5 @@ gpdepthpro <- pcn_data %>%
 gp <- gridExtra::grid.arrange(gpdepthpro, gpinterp, nrow=1)
 
 # End with call to ggsave or png ----
-ggsave(filename = "interp_2d_idw.png", plot = gp, device = "png",
+ggsave(filename = "interp_2d_iwd.png", plot = gp, device = "png",
        width = 8, height = 3, units = "in", dpi = 144, type="cairo")
