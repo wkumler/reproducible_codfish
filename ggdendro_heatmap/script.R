@@ -1,6 +1,7 @@
 # Add R script details below
 
 library(tidyverse)
+# devtools::install_github("nicolash2/ggdendroplot")
 library(ggdendroplot)
 
 heatmap_cor <- read_csv("data/filled_file_metadata.csv") %>%

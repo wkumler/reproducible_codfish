@@ -17,6 +17,13 @@ finicky, manually-aligned, and problematic. Also, most of the existing options
 don't have the fine control I want - for example, removing the unnecessary 
 lower half of the correlation matrix because `cor()` is symmetric.
 
+This one requires the ggdendroplot library which isn't on CRAN but can be
+installed with 
+
+```
+devtools::install_github("nicolash2/ggdendroplot")
+```
+
 ## Tricks used
 
   - The `ggdendroplot` library for rendering an aligned dendrogram in ggplot space
