@@ -77,4 +77,8 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-Gallery last updated 2022-05-03
+[![](ggdendro_heatmap/ggdendro_heatmap.png)](ggdendro_heatmap)
+
+---
+
+Gallery last updated 2022-09-13
