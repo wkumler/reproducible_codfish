@@ -81,4 +81,8 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-Gallery last updated 2022-09-13
+[![](kegg_pathway_plots/kegg_pathway_plot.png)](ggdendro_heatmap)
+
+---
+
+Gallery last updated 2023-04-28
