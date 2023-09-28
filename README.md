@@ -81,8 +81,14 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-[![](kegg_pathway_plots/kegg_pathway_plot.png)](ggdendro_heatmap)
+[![](kegg_pathway_plots/kegg_pathway_plot.png)](kegg_pathway_plots)
 
 ---
 
-Gallery last updated 2023-04-28
+<a href="ecoregion_chloromap"><img src="ecoregion_chloromap/ecoregion_chloromap.png" width="45%" height="45%" align="left"/></a>
+
+<br clear="left"/>
+
+---
+
+Gallery last updated 2023-09-28
