@@ -91,4 +91,8 @@ This gallery is updated whenever I feel like it because I manually go through th
 
 ---
 
-Gallery last updated 2023-09-28
+[![](stacked_bar_split_legend/stacked_bar_split_legend.png)](stacked_bar_split_legend)
+
+---
+
+Gallery last updated 2025-06-04
